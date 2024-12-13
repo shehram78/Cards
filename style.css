@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+
+
+.box1{
+
+    width: 25%;
+    height: 80%;
+    border:2px solid grey;
+    border-radius: 20px;
+    margin: 40px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 10px 5px grey;
+
+}
+
+.img1{
+    width: 90%;
+    height: 90%;
+    /* border: 1px solid grey; */
+    margin: 20px;
+    margin-top: 25px;
+    
+}
+
+
+
+.img1 img{
+    width: 100%;
+    height:50% ;
+    border-radius:10px ;
+}
+
+
+.btn2{
+    width: 40%;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: whitesmoke;
+    background-color: rgb(226, 0, 0);
+}
+
+
+.head{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+
+}
+
+
+
+.logoImg{
+    width: 20%;
+    height: 80px;
+    margin-top: 10px;
+}
+
+
+#logoImg{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    border-radius: 100%;
+}
+
+
+.logoPara{
+position: relative;
+left: 110px;
+bottom: 80px;
+}
+
+
+
+
+
+.box2{
+    
+    width: 25%;
+    height: 80%;
+    border:2px solid grey;
+    border-radius: 20px;
+    margin: 40px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 10px 5px grey;
+
+}
+
+
+
+
+.img2{
+    width: 90%;
+    height: 90%;
+    /* border: 1px solid grey; */
+    margin: 20px;
+    margin-top: 25px;
+    
+}
+
+
+
+.img2 img{
+    width: 100%;
+    height:50% ;
+    border-radius:10px ;
+}
+
+
+.btn{
+    width: 40%;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+
+
+.head2{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+
+}
+
+
+
+.logoImg2{
+    width: 20%;
+    height: 80px;
+    margin-top: 10px;
+}
+
+
+#logoImg2{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    border-radius: 100%;
+}
+
+
+.logoPara{
+position: relative;
+left: 110px;
+bottom: 80px;
+}
+
+
+
+
+
+
+.box3{
+    
+    width: 25%;
+    height: 80%;
+    border:2px solid grey;
+    border-radius: 20px;
+    margin: 40px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 10px 5px grey;
+}
+
+
+
+
+.img3{
+    width: 90%;
+    height: 90%;
+    /* border: 1px solid grey; */
+    margin: 20px;
+    margin-top: 25px;
+    
+}
+
+
+
+.img3 img{
+    width: 100%;
+    height:50% ;
+    border-radius:10px ;
+}
+
+
+.btn3{
+    width: 40%;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: whitesmoke;
+    background-color: skyblue;
+}
+
+
+.head3{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+
+}
+
+
+
+.logoImg3{
+    width: 20%;
+    height: 80px;
+    margin-top: 10px;
+}
+
+
+#logoImg3{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    border-radius: 100%;
+}
+
+
+.logoPara{
+position: relative;
+left: 110px;
+bottom: 80px;
+}
